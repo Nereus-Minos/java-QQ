@@ -1,5 +1,5 @@
 # QQ
-This is a copycat QQ project and I hope someone can improve this project.
+This is a copycat QQ project.
 #
 This project has written a client and a server-side interface. 
 The client includes a login interface, a friend interface, and a chat interface.
